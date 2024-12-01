@@ -1,2 +1,3 @@
 # ansicolor
-Adds colored, styled, or hightlighted output to strings
+Adds colored, styled, or highlighted output to strings
+

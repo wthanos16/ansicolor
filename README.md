@@ -1,6 +1,6 @@
 # ansicolor
 Adds colored, styled, or highlighted output to strings.
-The file was created to use as little code as possible for the desired efect.
+The file was created to use as little code as possible for the desired effect.
 Ansicolor dir can be put into /usr/local/go/src.
 
 # Usage
